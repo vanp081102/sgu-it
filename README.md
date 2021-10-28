@@ -1,1 +1,1 @@
-# sgu-it
+# sgu-it.github.io
